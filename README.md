@@ -24,20 +24,23 @@ RackNerd是一家美国主机商，成立于2019年，目前在美国和欧洲�
 
 ### 黑五促销
 | CPU | RAM | SSD容量 | 每月流量（GB） | 费用（年付） | 立即行动 |
-| 1核心 | 1 GB | 20 GB | 1500 | ＄10.99 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=879) |
-| 1核心 | 1 GB | 17 GB | 3000 | $ 10.98 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=358) |
-| 2核心 | 2.5 GB | 40 GB | 3000 | ＄18.93 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=880) |
-| 2核心 | 3 GB | 60 GB | 5500 | ＄27.89 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=881) |
-| 3核心 | 4.5 GB | 100 GB | 8500 | ＄39.88 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=882) |
-| 4核心 | 5 GB | 130 GB | 12000 | ＄55.93 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=883) |
+|-------|------|-----|--------|--------|----------|
+| 1核心 | 1 GB | 20 GB | 1500 | ＄10.99 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=879) |
+| 1核心 | 1 GB | 17 GB | 3000 | $ 10.98 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=358) |
+| 2核心 | 2.5 GB | 40 GB | 3000 | ＄18.93 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=880) |
+| 2核心 | 3 GB | 60 GB | 5500 | ＄27.89 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=881) |
+| 3核心 | 4.5 GB | 100 GB | 8500 | ＄39.88 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=882) |
+| 4核心 | 5 GB | 130 GB | 12000 | ＄55.93 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=883) |
 
 ### 大流量VPS
 | CPU核心数 | RAM | SSD | 每月流量（GB） | 费用（年付） | 详情 |
+|-------|------|-----|--------|--------|----------|
 | 3 | 2.5 GB | 50 GB | 6500 | ＄26.25 | [详情链接](https://my.racknerd.com/aff.php?aff=7404&pid=157) |
 | 3 | 3.5 GB | 45 GB | 7000 | ＄28.99 | [详情链接](https://my.racknerd.com/aff.php?aff=7404&pid=136) |
 
 ### Ryzen高性能 - AMD Ryzen 3900X Core
 | vCPU | RAM（DDR5） | Gen4 NVMe | 每月流量/GB | 费用（年付） | 立即行动 |
+|-------|------|-----|--------|--------|----------|
 | 1 | 1.2 GB | 25 GB | 2500 | ＄18.88 | [详情链接](https://my.racknerd.com/aff.php?aff=7404&pid=523) |
 | 2 | 2 GB | 38 GB | 4000 | ＄31.88 | [详情链接](https://my.racknerd.com/aff.php?aff=7404&pid=524) |
 | 2 | 3 GB | 55 GB | 5000 | ＄48.79 | [详情链接](https://my.racknerd.com/aff.php?aff=7404&pid=525) |
@@ -47,10 +50,11 @@ RackNerd是一家美国主机商，成立于2019年，目前在美国和欧洲�
 
 ### Windows VPS - AMD Ryzen 3900X 处理器，NVMe 高速固态硬盘
 | 内存 | CPU(3900X) | 硬盘(NVMe) | 流量 | 带宽 | 价格(续费同价) | 购买链接 |
-| 2G | 1核 | 35G | 2T/月 | 1Gbps | $60/年 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=340) |
-| 2.5G | 1核 | 40G | 3.5T/月 | 1Gbps | $69/年 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=435) |
-| 4G | 3核 | 60G | 6T/月 | 1Gbps | $115/年 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=436) |
-| 12G | 4核 | 160G | 12T/月 | 1Gbps | $289/年 | [Buy](https://my.racknerd.com/aff.php?aff=7404&pid=437) |
+|-------|------|-----|--------|--------|----------|----------|
+| 2G | 1核 | 35G | 2T/月 | 1Gbps | $60/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=340) |
+| 2.5G | 1核 | 40G | 3.5T/月 | 1Gbps | $69/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=435) |
+| 4G | 3核 | 60G | 6T/月 | 1Gbps | $115/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=436) |
+| 12G | 4核 | 160G | 12T/月 | 1Gbps | $289/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=437) |
 
 ## RackNerd 评测
 RackNerd凭借其在全球多个数据中心的优质服务以及高性价比的云服务器方案，赢得了用户的广泛好评。尤其是其服务的稳定性和优质的客户支持系统，工单响应迅速。支持PayPal、支付宝等多种支付方式。使得RackNerd成为了许多企业和个人用户优先选择的云服务提供商。
