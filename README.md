@@ -1,4 +1,4 @@
-# CC、RackNerd、CCS优惠码和2025年最新RackNerd特价VPS、colocrossing提价VPS、cloudcone特价云服务器活动与特价套餐整理
+# RackNerd优惠码和2025年最新RackNerd特价VPS、colocrossing提价VPS、cloudcone特价云服务器活动与特价套餐整理
 
 ## RackNerd 介绍
 RackNerd是一家美国主机商，成立于2019年，目前在美国和欧洲设有多个数据中心。便宜，1Gbps带宽，年付，配置好，普通线路，美国多地区可选(选法国数据中心需加价$5.99)，工单响应迅速。支持PayPal、支付宝等多种支付方式。支持**流量翻倍**，仅需在lowendtalk上发帖留言即可。详见：[racknerd流量翻倍步骤](https://www.caq98i.top/article/?page=155)。其产品因超高的性价比而受到广泛认可，尤其在洛杉矶、圣何塞、西雅图等地的机房因近距离和快速连接而备受国内用户青睐。
