@@ -1,8 +1,8 @@
-# RackNerd优惠码和2025年最新RackNerd特价VPS、colocrossing提价VPS、cloudcone特价云服务器活动与特价套餐整理
+# RackNerd优惠码和2026年最新RackNerd特价VPS、colocrossing提价VPS、cloudcone特价云服务器活动与特价套餐整理
 
 ## 目录
 1. [Racknerd](#racknerd-介绍)<br>
-1.1 [Racknerd_2025新年特惠VPS与黑五促销](#2025新年特惠vps)<br>
+1.1 [Racknerd_2026新年特惠VPS与黑五促销](#2026新年特惠vps)<br>
 1.2 [Ryzen高性能-AMD Ryzen 3900X Core_VPS与Windows VPS](#ryzen高性能---amd-ryzen-3900x-core)<br>
 2. [Colocrossing美区VPS特价汇总](#colocrossing美区vps特价汇总)<br>
 3. [2025年美国洛杉矶高性价比便宜VPS商家CloudCone最新优惠活动](#2025年美国洛杉矶高性价比便宜vps商家cloudcone最新优惠活动)<br>
@@ -23,30 +23,21 @@ RackNerd是一家美国主机商，成立于2019年，目前在美国和欧洲�
 
 ## RackNerd 云服务器优惠活动
 
-### 2025新年特惠VPS
+### 2026新年特惠VPS
 | CPU   | 内存 | SSD | 月流量 | 价格Price   | 详情链接 |
 |-------|------|-----|--------|--------|----------|
-| 1核心 | 1G   | 24G | 2TB    | $11.29/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=903) |
-| 1核心 | 2G | 40G | 3.5TB    | $18.29/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=904) |
-| 2核心 | 3.5 GB | 65 GB | 7TB | ＄32.49/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=905) |
-| 3核心 | 4 GB | 105 GB | 9TB | ＄43.88/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=906) |
-| 4核心 | 6 GB | 140 GB | 12TB | ＄59.99/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=907) |
+| 1核心 | 1G   | 20G | 3TB    | $21.99/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=952) |
+| 2核心 | 2G | 35G | 5TB    | $35.99/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=953) |
+| 3核心 | 4 GB | 60 GB | 7TB | ＄59.99/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=954) |
+| 6核心 | 6 GB | 100 GB | 12TB | ＄89.99/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=955) |
+| 7核心 | 8 GB | 150 GB | 20TB | ＄119.99/年 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=956) |
 
-### 黑五促销
-| CPU | RAM | SSD容量 | 每月流量（GB） | 费用（年付） | 立即行动 |
-|-------|------|-----|--------|--------|----------|
-| 1核心 | 1 GB | 20 GB | 1500 | ＄10.99 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=879) |
-| 1核心 | 1 GB | 17 GB | 3000 | $ 10.98 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=358) |
-| 2核心 | 2.5 GB | 40 GB | 3000 | ＄18.93 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=880) |
-| 2核心 | 3 GB | 60 GB | 5500 | ＄27.89 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=881) |
-| 3核心 | 4.5 GB | 100 GB | 8500 | ＄39.88 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=882) |
-| 4核心 | 5 GB | 130 GB | 12000 | ＄55.93 | [查看详情](https://my.racknerd.com/aff.php?aff=7404&pid=883) |
-
-### 大流量VPS
+### 大存储VPS
 | CPU核心数 | RAM | SSD | 每月流量（GB） | 费用（年付） | 详情 |
 |-------|------|-----|--------|--------|----------|
-| 3 | 2.5 GB | 50 GB | 6500 | ＄26.25 | [详情链接](https://my.racknerd.com/aff.php?aff=7404&pid=157) |
-| 3 | 3.5 GB | 45 GB | 7000 | ＄28.99 | [详情链接](https://my.racknerd.com/aff.php?aff=7404&pid=136) |
+| 1 | 512 MB | 256 GB | 1000 | ＄10.88 | [详情链接](https://billing.dedirock.com/aff.php?aff=718&pid=106) |
+| 1 | 1 GB | 1 TB | 2000 | ＄17.99 | [详情链接](https://billing.dedirock.com/aff.php?aff=718&pid=107) |
+| 1 | 2 GB | 2 TB | 3000 | ＄27.68 | [详情链接](https://billing.dedirock.com/aff.php?aff=718&pid=108) |
 
 ### Ryzen高性能 - AMD Ryzen 3900X Core
 | vCPU | RAM（DDR5） | Gen4 NVMe | 每月流量/GB | 费用（年付） | 立即行动 |
